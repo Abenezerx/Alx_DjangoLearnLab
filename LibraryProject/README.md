@@ -1,1 +1,1 @@
-ECHO is on.
+introduction to Django.
